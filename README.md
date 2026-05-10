@@ -1,18 +1,43 @@
-<!--## Hi there 👋
 
-**Guilherme-Cesar-dev/Guilherme-Cesar-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Junior`**
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center" >
+<img width=200px style="border-radius: 1000000px; "border= 5px"" src="https://avatars.githubusercontent.com/u/162651959?v=4" alt="Cesar-photo">
+</p>
+
+<!-- https://readme-typing-svg.demolab.com/demo/?font=&center=true&vCenter=true&lines=C%C3%A9sar+says%3A+Hi!+ -->
+<p align="center"><a href="https://github.com/Guilherme-Cesar-dev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=C%C3%A9sar+says%3A+Hi!+" alt="Typing SVG" /></a>
+</p>
+
+<!-- Scial badges section -->
+<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
+<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
+<p align="center">
+    <a href="https://www.youtube.com/@Cantodocesar">
+            <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCGICXLuiYhM1irSDWSph89A?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
+    <a href="https://www.youtube.com/@Cantodocesar">
+            <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCGICXLuiYhM1irSDWSph89A?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>     
+    <a href="https://github.com/Guilherme-Cesar-dev?tab=repositories&sort=stargazers">
+            <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Guilherme-Cesar-dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <a href="https://github.com/Guilherme-Cesar-dev?tab=followers">
+            <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Guilherme-Cesar-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p>
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/cesar-gui/">
+            <img  width= 30px style="padding-right: 15px;" alt="followers" title="Follow me on Youtube" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/250px-LinkedIn_icon.svg.png"/></a>
+    <a href="guic_dev">
+            <img  width= 30px style="padding-right: 15px;" alt="followers" title="Follow me on Youtube" src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png"/></a>
+    <a href="https://open.spotify.com/user/31oyjj6bdzo6ozdjxzo3q67vqunm?si=efcff3900da445af">
+            <img  width= 30px style="padding-right: 15px;" alt="followers" title="Follow me on Youtube" src="https://m.media-amazon.com/images/I/51rttY7a+9L._h1_.png"/></a>
+    <a href="https://www.chess.com/member/tuturiipvs">
+            <img  width= 30px style="padding-right: 15px;" alt="followers" title="Follow me on Youtube" src="https://play-lh.googleusercontent.com/A3MvSm0eEVCkHQP9rUE1Cl3ju90CqCjTxcQqt4tBDzEMT7RWixWBCFgT7mIcN0hk2Q"/></a>
+</p>
+
+<br/>
+<br/>
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -38,14 +63,36 @@ Here are some ideas to get you started:
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+<br/>
+<br/>
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Guilherme-Cesar-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Guilherme-Cesar-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Guilherme-Cesar-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=Guilherme-Cesar-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/guic-dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cesar-gui) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Cantodocesar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guilhermec8463@gmail.com) 
+![](https://streak-stats.demolab.com/?user=Guilherme-Cesar-dev&theme=dark&hide_border=false)
 
-[![](https://komarev.com/ghpvc/?username=Guilherme-Cesar-dev&icon=0&color=1)](https://visitcount.itsvg.in)
+
+<!-- ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Guilherme-Cesar-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+---
+<br/>
+
+<!-- https://hits.sh/ -->
+<a href="https://hits.sh/github.com/Guilherme-Cesar-dev/Guilherme-Cesar-dev/">
+<img align="left" style="padding-right: 740px;" alt="Hits" src="https://hits.sh/github.com/Guilherme-Cesar-dev/Guilherme-Cesar-dev.svg"/></a>
+
+<!-- https://devicon.dev/ -->
+<img align="left" width= 20px style="padding-right: 10px;" alt="arch-linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain.svg" />
+<br/>
+
+<!-- Thanks for help : 
+https://dev.to/denvercoder1/create-and-elevate-your-github-profile-readme-4mom  
+https://www.youtube.com/watch?v=9ygf4hkLVnA
+
+-->
+
+<a href="guilhermecesar.me" style="text-decoration: none;"><p align="center" width= 20px >See More</p></a>
+
