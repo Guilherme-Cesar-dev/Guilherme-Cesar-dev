@@ -93,5 +93,5 @@ https://www.youtube.com/watch?v=9ygf4hkLVnA
 
 -->
 
-<a href="guilhermecesar.me" style="text-decoration: none;"><p align="center" width= 20px >See More</p></a>
+<p align="center" width= 20px ><a href="guilhermecesar.me" style="text-decoration: none;">See More</a></p>
 
