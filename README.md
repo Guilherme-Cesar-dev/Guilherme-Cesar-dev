@@ -3,10 +3,6 @@
 
 <br/>
 
-<p align="center" >
-<img width=200px style="border-radius: 1000000px; "border= 5px"" src="https://avatars.githubusercontent.com/u/162651959?v=4" alt="Cesar-photo">
-</p>
-
 <!-- https://readme-typing-svg.demolab.com/demo/?font=&center=true&vCenter=true&lines=C%C3%A9sar+says%3A+Hi!+ -->
 <p align="center"><a href="https://github.com/Guilherme-Cesar-dev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=C%C3%A9sar+says%3A+Hi!+" alt="Typing SVG" /></a>
 </p>
