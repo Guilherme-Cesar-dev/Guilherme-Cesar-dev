@@ -67,9 +67,10 @@
 <br/>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Guilherme-Cesar-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-![](https://streak-stats.demolab.com/?user=Guilherme-Cesar-dev&theme=dark&hide_border=false)
+<img align="left" style="padding-right: 15px;" src="https://github-readme-stats.shion.dev/api?username=Guilherme-Cesar-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
+
+<img src="https://streak-stats.demolab.com/?user=Guilherme-Cesar-dev&theme=dark&hide_border=false">
 
 <!--[](https://github-readme-stats.shion.dev/api/top-langs/?username=Guilherme-Cesar-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)>
 
@@ -81,7 +82,7 @@
 
 <!-- https://hits.sh/ -->
 <a href="https://hits.sh/github.com/Guilherme-Cesar-dev/Guilherme-Cesar-dev/">
-<img align="left" style="padding-right: 740px;" alt="Hits" src="https://hits.sh/github.com/Guilherme-Cesar-dev/Guilherme-Cesar-dev.svg"/></a>
+<img align="left" style="padding-right: 870px;" alt="Hits" src="https://hits.sh/github.com/Guilherme-Cesar-dev/Guilherme-Cesar-dev.svg"/></a>
 
 <!-- https://devicon.dev/ -->
 <img align="left" width= 20px style="padding-right: 10px;" alt="arch-linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain.svg" />
